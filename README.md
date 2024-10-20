@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a Systems Analyst and I've been working with software development since 1990. At the moment, I'm working on development projects in Flutter, JavaScript, Pascal, and others.
+I'm a Systems Analyst and I've been working with software development since 1990. At the moment, I'm working on development projects in Flutter, Go, JavaScript and others.
 
 I am passionate about software development.
 
